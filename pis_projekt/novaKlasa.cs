@@ -10,7 +10,7 @@ namespace pis_projekt
     {
         int metoda()
         {
-            return 1;
+            return 2;
         }
     }
 }
