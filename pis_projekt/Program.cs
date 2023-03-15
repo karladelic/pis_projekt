@@ -12,6 +12,7 @@ namespace pis_projekt
         {
             Console.WriteLine("Novo");
             //heeeeeeej
+            //nooooooova poruka
         }
     }
 }
