@@ -8,5 +8,8 @@ namespace pis_projekt
 {
     class novaKlasa
     {
+        static void Metoda(string[] args)
+        {
+        }
     }
 }
