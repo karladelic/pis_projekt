@@ -8,5 +8,8 @@ namespace pis_projekt
 {
     class novaKlasa
     {
+        int metoda(){
+            return 1;
+            //nova linija
     }
 }
