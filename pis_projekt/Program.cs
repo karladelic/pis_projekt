@@ -10,6 +10,7 @@ namespace pis_projekt
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Novo");
         }
     }
 }
